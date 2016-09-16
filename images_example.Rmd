@@ -18,6 +18,8 @@ getcutecat(300)
 
 ![some kittens](http://placekitten.com/g/300/300)
 
+Here is some text to show that we can write things after images. 
+
 250 pixels
 
 ```{r, collapse=TRUE}
@@ -25,3 +27,5 @@ getcutecat(250)
 ```
 
 ![some kittens](http://placekitten.com/g/250/250)
+
+Here is some more text to show that we can write things after images. 
